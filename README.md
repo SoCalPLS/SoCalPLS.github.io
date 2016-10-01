@@ -1,4 +1,4 @@
-[16th SoCal PLS](http://socalpls.github.io/)
+[17th SoCal PLS](http://socalpls.github.io/)
 ============================================
 
 The SoCal Programming Languages and Systems Workshop is an informal gathering of
