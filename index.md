@@ -81,10 +81,8 @@ acceptance.
 
 ## Registration
 
-There will be no registration fee. Please register via ([this form](http://goo.gl/forms/AptCpvr9yE)).
-
-Please register by **Tuesday, November 8th**, so that we can get an accurate
-headcount for ordering food and acquiring parking passes.
+There will be no registration fee. Please register by **Tuesday, November 8th**, so that we can get an accurate
+headcount for ordering food and acquiring parking passes.  The registration form will be available shortly
 
 ---
 
