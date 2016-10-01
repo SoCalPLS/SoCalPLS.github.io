@@ -89,7 +89,7 @@ headcount for ordering food and acquiring parking passes.
 ## Program Committee
 
 |--------------------|---------|
-|[Harry Xu (Chair)](http://www.ics.uci.edu/~guoqingx)            | UCI     |
+|[Harry Xu](http://www.ics.uci.edu/~guoqingx)            | UCI     |
 |[Brian Demsky](http://plrg.eecs.uci.edu/)               | UCI     |
 |[Todd Millstein](http://web.cs.ucla.edu/~todd/)         | UCLA    |
 |[Rajiv Gupta](www.cs.ucr.edu/~gupta/)                   | UCR |
@@ -101,6 +101,6 @@ headcount for ordering food and acquiring parking passes.
 * Mailing List: socal@lists.ucla.edu
   [(subscribe)](http://lists.ucla.edu/cgi-bin/mailman/listinfo/socal)
 * Local Organizer:
-  [Sanjay Madhav](http://itp.usc.edu/faculty-staff/sanjay-madhav/)
+  [Harry Xu](http://www.ics.uci.edu/~guoqingx)
 
 {% include common_urls.md %}
