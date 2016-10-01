@@ -43,14 +43,19 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 |----------|--------------------------------------------------------|
 | 9:30AM   | Breakfast                                              |
 |          |                                                        | 
-| 11:00AM  | Break                                                  |
+| 11:00AM  | Coffee Break                                           |
 |          |                                                        |
 | 11:45AM  | Lunch                                                  |
 |          |                                                        |
 | 1:45PM   | Break                                                  |
 |          |                                                        |
 | 3:00PM   | Coffee Break                                           |
-| 3:15PM   | Business Meeting/Discussion                            |
+|          |                                                        |
+| 4:00PM   | Break                                                  |
+| 4:30PM   | Business Meeting/Discussion                            |
+| 5:30PM   | Group Dinner                                           |
+
+
 
 ---
 
