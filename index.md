@@ -30,7 +30,7 @@ The primary goals of this workshop include:
 
 ## Schedule and Local Information
 
-The workshop will be in Bren Hall (DBH), room 6011. Once inside, take the elevator to the 6th floor, and 6011 is immediately to the right.
+The workshop will be in either DBH or ICS. The detailed location will be announced later.
 
 ### Driving Directions and Parking
 UCI is accessible from many freeways such as 405, 73, and 55. If you have a navigation system, make "Anteater Parking Structure, UCI" your destination. Parking is available in the Anteater Parking Structure, which is located on the corner of East Peltason and Anteater Drive. Entrance into the Anteater Parking Structure is on Anteater Drive. Please visit http://www.parking.uci.edu/maps/ to view a campus map for more information. Information about obtaining parking permits will be available soon.
