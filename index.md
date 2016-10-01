@@ -88,12 +88,13 @@ headcount for ordering food and acquiring parking passes.
 
 ## Program Committee
 
-|--------------------|---------|
-|[Harry Xu](http://www.ics.uci.edu/~guoqingx)            | UCI     |
-|[Brian Demsky](http://plrg.eecs.uci.edu/)               | UCI     |
-|[Todd Millstein](http://web.cs.ucla.edu/~todd/)         | UCLA    |
-|[Rajiv Gupta](www.cs.ucr.edu/~gupta/)                   | UCR |
-|[Sorin Lerner](http://cseweb.ucsd.edu/~lerner/)         | UCSD  |
+|-----------------------------------|---------------------------|
+|[Harry Xu](http://www.ics.uci.edu/~guoqingx)   | UCI     |
+|[Brian Demsky](http://plrg.eecs.uci.edu/)      | UCI     |
+|[Todd Millstein](http://web.cs.ucla.edu/~todd/)| UCLA    |
+|[Rajiv Gupta](www.cs.ucr.edu/~gupta/)          | UCR     |
+|[Sorin Lerner](http://cseweb.ucsd.edu/~lerner/)| UCSD    |
+
 ---
 
 ## Organization
