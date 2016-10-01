@@ -34,7 +34,7 @@ The workshop will be in Bren Hall (DBH), room 6011. Once inside, take the elevat
 UCI is accessible from many freeways such as 405, 73, and 55. If you have a navigation system, make "Anteater Parking Structure, UCI" your destination. Parking is available in the Anteater Parking Structure, which is located on the corner of East Peltason and Anteater Drive. Entrance into the Anteater Parking Structure is on Anteater Drive. Please visit http://www.parking.uci.edu/maps/ to view a campus map for more information. Information about obtaining parking permits will be available soon.
 
 ### Map
-<img src="2016aprilmap.jpg">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d415.1933709692728!2d-117.8380030984552!3d33.642986726913584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcde05faa15f01%3A0x65d87c8c9fa12bc5!2sAnteater+Parking+Structure%2C+Irvine%2C+CA+92617!5e0!3m2!1sen!2sus!4v1475351882862" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Tentative Schedule
 
