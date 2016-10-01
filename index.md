@@ -12,6 +12,8 @@ programming languages and systems researchers in Southern California.
 This Fall, we'll meet at the [University of California, Irvine][uci] on
 **Friday, November 18th, 2016**.
 
+<img src="http://mindbodylab.bio.uci.edu/img/UCI%20Arial%20Photo%202.JPG"></img>
+
 ---
 
 ## Workshop in Fall 2016
