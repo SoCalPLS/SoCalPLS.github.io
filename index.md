@@ -67,13 +67,15 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 Both original research and work that has been published in other venues is
 welcome!
 
-Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/1SfidMAP8eHP8V1gFlninJflKH3Tvj2hNnpz0JB1ZxUY/viewform)) Google
+Authors should submit abstracts of at most ~300 words via the following Google
 form. The submission deadline is **Friday, October 28th**, by the end of the day.
 
 Selected abstracts will be presented as a talk or a poster. The program
 committee will determine the length of the talks based on the number and content
 of the abstracts; and they'll provide more information when they notify you of
 acceptance.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTmEthnELpfxiNuTMi9MudJKSY8jyQNgW15PAnWjcgocxshg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ---
 
