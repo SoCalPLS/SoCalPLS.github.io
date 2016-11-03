@@ -82,7 +82,7 @@ committee will determine the length of the talks based on the number and content
 of the abstracts; and they'll provide more information when they notify you of
 acceptance.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTmEthnELpfxiNuTMi9MudJKSY8jyQNgW15PAnWjcgocxshg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Abstract registion deadline has passed.
 
 ---
 
