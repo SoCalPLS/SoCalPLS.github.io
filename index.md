@@ -82,7 +82,7 @@ committee will determine the length of the talks based on the number and content
 of the abstracts; and they'll provide more information when they notify you of
 acceptance.
 
-Abstract registion deadline has passed.
+Abstract registration deadline has passed.
 
 ---
 
