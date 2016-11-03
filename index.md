@@ -88,8 +88,10 @@ acceptance.
 
 ## Registration
 
-There will be no registration fee. Please register by **Tuesday, November 8th**, so that we can get an accurate
-headcount for ordering food and acquiring parking passes.  The registration form will be available shortly
+Registration is open. There will be no registration fee. Please register by **Tuesday, November 8th**, so that we can get an accurate
+headcount for ordering food and acquiring parking passes.  
+
+<iframe src="https://docs.google.com/a/ics.uci.edu/forms/d/e/1FAIpQLSdw3DiMRSwn-txFvWSQGzX3Lzzlb_rWIDTIMfZd6K68hEAHWg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ---
 
