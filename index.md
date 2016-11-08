@@ -41,9 +41,14 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 ### Tentative Schedule
 
 |----------|--------------------------------------------------------|
-| 9:30AM   | Breakfast                                              |
-|          |                                                        | 
-| 11:00AM  | Coffee Break                                           |
+| 9:30AM   | Session 1 (Compilers and Static Analysis)               |
+|          | Chair: TBD                                             | 
+|          |                                                        |
+|          |Compiling Deep Neural Networks, Andreas Gal, Silk Labs  |
+|          |One Compiler, Christian Wimmer, Oracle Labs             |
+|          |Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code, Aftab Hussain (UC Irvine)|
+|          |                                                        |
+| 10:45AM  | Coffee Break                                           |
 |          |                                                        |
 | 11:45AM  | Lunch                                                  |
 |          |                                                        |
