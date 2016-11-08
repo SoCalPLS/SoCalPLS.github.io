@@ -72,6 +72,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 | Talk 10  | User-Guided Synthesis of Interactive Diagrams, <br>John Sarracino, UCSD|
 | Talk 11  |KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations, <br>Keval Vora, UC Riverside| 
 |Talk 12| Yak: A High-Performance Big-Data-Friendly Garbage Collector, <br>Khanh Nguyen, UC Irvine|
+|       |               |
 | 4:15PM   | Coffee Break                                           |
 |          |                                                        |
 | 4:30PM   | Session 5 (Distributed Systems)                        |
