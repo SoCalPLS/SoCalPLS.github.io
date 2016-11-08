@@ -75,7 +75,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 |       |               |
 | 4:15PM   | Coffee Break                                           |
 |          |                                                        |
-| 4:30PM   | Session 5 (Distributed Systems)                        |
+| 4:30PM   | Session 5 (Storage and Distributed Systems)                        |
 |          | Chair: TBD                                             |
 | Talk 13  | Persistence with Failed Data Store Writes, <br> Hieu Nguyen and Haoyu Huang, USC|
 | Talk 14  |Internet-of-Things Programmability and Security: On Trusting the Untrusted, <br>Rahmadi Trimananda, UC Irvine|
