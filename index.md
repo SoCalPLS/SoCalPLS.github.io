@@ -41,24 +41,47 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 ### Tentative Schedule
 
 |----------|--------------------------------------------------------|
-| 9:30AM   | Session 1 (Compilers and Static Analysis)               |
+| 9:30AM   | Session 1 (Compiler and Static Analysis)               |
 |          | Chair: TBD                                             | 
 |          |                                                        |
-|          |Compiling Deep Neural Networks, Andreas Gal, Silk Labs  |
-|          |One Compiler, Christian Wimmer, Oracle Labs             |
-|          |Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code, Aftab Hussain (UC Irvine)|
+| Talk 1   |Compiling Deep Neural Networks, <br> Andreas Gal, Silk Labs  |
+| Talk 2   |One Compiler, <br>Christian Wimmer, Oracle Labs             |
+| Talk 3   |Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code, <br> Aftab Hussain (UC Irvine)|
 |          |                                                        |
 | 10:45AM  | Coffee Break                                           |
 |          |                                                        |
-| 11:45AM  | Lunch                                                  |
+| 11:00AM  | Session 2 (Language Design and Type System)            |
+|          | Chair: TBD                                             |
 |          |                                                        |
-| 1:45PM   | Break                                                  |
+| Talk 4   |The POSIX shell as a programming language, <br>Michael Greenberg, Pomona College|
+| Talk 5   |Dynamic Witnesses for Static Type Errors, <br> Eric Seidel, UCSD|
+| Talk 6   |Refinement Reflection, <br>Niki Vazou, UCSD |
 |          |                                                        |
-| 3:00PM   | Coffee Break                                           |
+| 12:15PM  | Lunch                                                  |
 |          |                                                        |
-| 4:00PM   | Break                                                  |
-| 4:30PM   | Business Meeting/Discussion                            |
-| 5:30PM   | Group Dinner                                           |
+| 1:30PM   | Session 3 (Tackling Bugs)                               |
+|          | Chair: TBD                                              |
+| Talk7    | Conc-iSE: Incremental Symbolic Execution of Concurrent Software, <br>Shengjian Guo, Virginia Tech|
+| Talk8    | Mind Your Metrics: How (Not) to Evaluate a Fuzzer, <br>Kyle Dewey, UCSB|
+| Talk9    | Shield Synthesis: Safety Enforcement for Reactive Systems, <br>Chao Wang, USC|
+|          |                                                        |
+| 2:45PM   | Coffee Break                                           |
+|          |                                                        |
+| 3:00PM   | Session 4 (Program Synthesis and Big Data Systems)     |
+|          | Chair: TBD         |
+| Talk 10  | User-Guided Synthesis of Interactive Diagrams, <br>John Sarracino, UCSD|
+| Talk 11  |KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations, <br>Keval Vora, UC Riverside| 
+|Talk 12| Yak: A High-Performance Big-Data-Friendly Garbage Collector, <br>Khanh Nguyen, UC Irvine|
+| 4:15PM   | Coffee Break                                           |
+|          |                                                        |
+| 4:30PM   | Session 5 (Distributed Systems)                        |
+|          | Chair: TBD                                             |
+| Talk 13  | Persistence with Failed Data Store Writes, <br> Hieu Nguyen and Haoyu Huang, USC|
+| Talk 14  |Internet-of-Things Programmability and Security: On Trusting the Untrusted, <br>Rahmadi Trimananda, UC Irvine|
+| Talk 15 | An Overview of Polygraph, <br>Yazeed Alabdulkarim and Marwan Almaymoni, USC|
+|          |               |
+| 5:45PM   | Business Meeting/Discussion                            |
+| 6:00PM   | Group Dinner (Eureka?)                                 |
 
 
 
