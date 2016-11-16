@@ -30,13 +30,18 @@ The primary goals of this workshop include:
 
 ## Schedule and Local Information
 
-The workshop will be held in either DBH or ICS. The detailed location will be announced later.
+The workshop will be held in Room 432 in the ICS 1 building. 
 
 ### Driving Directions and Parking
-UCI is accessible from many freeways such as 405, 73, and 55. If you have a navigation system, make "Anteater Parking Structure, UCI" your destination. Parking is available in the Anteater Parking Structure, which is located on the corner of East Peltason and Anteater Drive. Entrance into the Anteater Parking Structure is on Anteater Drive. Please visit http://www.parking.uci.edu/maps/ to view a campus map for more information. Information about obtaining parking permits will be available soon.
+UCI is accessible from many freeways such as 405, 73, and 55. If you have a navigation system, make "Anteater Parking Structure, UCI" your destination. Parking is available in the Anteater Parking Structure, which is located on the corner of East Peltason and Anteater Drive. Entrance into the Anteater Parking Structure is on Anteater Drive. Please visit http://www.parking.uci.edu/maps/ to view a campus map for more information. When you arrive at the Anteater Parking Structure, let the attendant know that you are attending the SoCal PLS workshop and you will be given a free parking pass. 
 
 ### Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d415.1933709692728!2d-117.8380030984552!3d33.642986726913584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcde05faa15f01%3A0x65d87c8c9fa12bc5!2sAnteater+Parking+Structure%2C+Irvine%2C+CA+92617!5e0!3m2!1sen!2sus!4v1475351882862" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Directions from Anteater Parking Structure to ICS 1 can be found in Google Maps:
+
+<iframe src="https://maps.app.goo.gl?link=https://www.google.com/maps/dir/Anteater%2BParking%2BStructure,%2BIrvine,%2BCA%2B92617/Information%2Band%2BComputer%2BScience,%2BInner%2BRing%2BRoad,%2BIrvine,%2BCA%2B92697/@33.6443755,-117.8411095,18z/data%3D!3m1!4b1!4m14!4m13!1m5!1m1!1s0x80dcde05faa15f01:0x65d87c8c9fa12bc5!2m2!1d-117.8378368!2d33.6431598!1m5!1m1!1s0x80dcde0fc3fbddc7:0xb730a0962b540202!2m2!1d-117.8417952!2d33.6442833!3e2?utm_source%3Dapp-invite%26mt%3D8%26pt%3D9008%26utm_medium%3DSIMPLE%26utm_campaign%3Ds2e-ai%26ct%3Ds2e-ai&apn=com.google.android.apps.maps&amv=703000000&isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&utm_source=app-invite&mt=8&pt=9008&utm_medium=SIMPLE&utm_campaign=s2e-ai&ct=s2e-ai&invitation_id=493454522602-87549857-7459-4926-89e1-b89667db7fa5" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ### Tentative Schedule
 
