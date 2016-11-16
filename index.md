@@ -42,7 +42,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 
 |----------|--------------------------------------------------------|
 | 9:30AM   | Session 1 (Compiler and Static Analysis)               |
-|          | Chair: TBD                                             | 
+|          | Chair: Harry Xu, UCI                                             | 
 |          |                                                        |
 | Talk 1   |Compiling Deep Neural Networks, <br> Andreas Gal, Silk Labs  |
 | Talk 2   |One Compiler, <br>Christian Wimmer, Oracle Labs             |
@@ -51,7 +51,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 | 10:45AM  | Coffee Break                                           |
 |          |                                                        |
 | 11:00AM  | Session 2 (Language Design and Type System)            |
-|          | Chair: TBD                                             |
+|          | Chair: Todd Millstein, UCLA                                            |
 |          |                                                        |
 | Talk 4   |The POSIX shell as a programming language, <br>Michael Greenberg, Pomona College|
 | Talk 5   |Dynamic Witnesses for Static Type Errors, <br> Eric Seidel, UCSD|
@@ -60,7 +60,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 | 12:15PM  | Lunch                                                  |
 |          |                                                        |
 | 1:30PM   | Session 3 (Tackling Bugs)                               |
-|          | Chair: TBD                                              |
+|          | Chair: Brian Demsky, UCI                                               |
 | Talk7    | Conc-iSE: Incremental Symbolic Execution of Concurrent Software, <br>Shengjian Guo, Virginia Tech|
 | Talk8    | Mind Your Metrics: How (Not) to Evaluate a Fuzzer, <br>Kyle Dewey, UCSB|
 | Talk9    | Shield Synthesis: Safety Enforcement for Reactive Systems, <br>Chao Wang, USC|
@@ -68,7 +68,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 | 2:45PM   | Coffee Break                                           |
 |          |                                                        |
 | 3:00PM   | Session 4 (Program Synthesis and Big Data Systems)     |
-|          | Chair: TBD         |
+|          | Chair: Chao Wang, UCI         |
 | Talk 10  | User-Guided Synthesis of Interactive Diagrams, <br>John Sarracino, UCSD|
 | Talk 11  |KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations, <br>Keval Vora, UC Riverside| 
 |Talk 12| Yak: A High-Performance Big-Data-Friendly Garbage Collector, <br>Khanh Nguyen, UC Irvine|
@@ -76,7 +76,7 @@ UCI is accessible from many freeways such as 405, 73, and 55. If you have a navi
 | 4:15PM   | Coffee Break                                           |
 |          |                                                        |
 | 4:30PM   | Session 5 (Storage and Distributed Systems)                        |
-|          | Chair: TBD                                             |
+|          | Chair: Harry Xu, UCI                                             |
 | Talk 13  | Persistence with Failed Data Store Writes, <br> Shahram Ghandeharizadeh, Haoyu Huang and Hieu Nguyen, USC|
 | Talk 14  |Internet-of-Things Programmability and Security: On Trusting the Untrusted, <br>Rahmadi Trimananda, UC Irvine|
 | Talk 15 | An Overview of Polygraph, <br>YYazeed Alabdulkarim, Marwan Almaymoni, and Shahram Ghandeharizadeh, USC|
