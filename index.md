@@ -54,7 +54,7 @@ Directions from Anteater Parking Structure to ICS 1 can be found via <a href="ht
 | 10:45AM  | Coffee Break                                           |
 |          |                                                        |
 | 11:00AM  | Session 2 (Language Design and Type System)            |
-|          | Chair: Todd Millstein, UCLA                                            |
+|          | Chair: Harry Xu, UCI                                            |
 |          |                                                        |
 | Talk 4   |The POSIX shell as a programming language, <br>Michael Greenberg, Pomona College|
 | Talk 5   |Dynamic Witnesses for Static Type Errors, <br> Eric Seidel, UCSD|
@@ -79,7 +79,7 @@ Directions from Anteater Parking Structure to ICS 1 can be found via <a href="ht
 | 4:15PM   | Coffee Break                                           |
 |          |                                                        |
 | 4:30PM   | Session 5 (Storage and Distributed Systems)                        |
-|          | Chair: Harry Xu, UCI                                             |
+|          | Chair: Michael Greenberg, UCI                                             |
 | Talk 13  | Persistence with Failed Data Store Writes, <br> Shahram Ghandeharizadeh, Haoyu Huang and Hieu Nguyen, USC|
 | Talk 14  |Internet-of-Things Programmability and Security: On Trusting the Untrusted, <br>Rahmadi Trimananda, UC Irvine|
 | Talk 15 | An Overview of Polygraph, <br>YYazeed Alabdulkarim, Marwan Almaymoni, and Shahram Ghandeharizadeh, USC|
