@@ -79,7 +79,7 @@ Directions from Anteater Parking Structure to ICS 1 can be found via <a href="ht
 | 4:15PM   | Coffee Break                                           |
 |          |                                                        |
 | 4:30PM   | Session 5 (Storage and Distributed Systems)                        |
-|          | Chair: Michael Greenberg, UCI                                             |
+|          | Chair: Michael Greenberg, Pomona College                                             |
 | Talk 13  | Persistence with Failed Data Store Writes, <br> Shahram Ghandeharizadeh, Haoyu Huang and Hieu Nguyen, USC|
 | Talk 14  |Internet-of-Things Programmability and Security: On Trusting the Untrusted, <br>Rahmadi Trimananda, UC Irvine|
 | Talk 15 | An Overview of Polygraph, <br>YYazeed Alabdulkarim, Marwan Almaymoni, and Shahram Ghandeharizadeh, USC|
