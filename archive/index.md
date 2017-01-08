@@ -7,7 +7,7 @@ title: Archive
 {% comment %}
   TODO: Automate generation of table from directory tree can't be done without
         3rd party Jekyll plugins. And GitHub runs Jekyll with --safe, so 3rd
-        party plugins are disables.
+        party plugins are disabled.
         Jekyll collections are of zero help.
 
         Of course compiling on our machines and pushing static pages is a
@@ -19,6 +19,7 @@ title: Archive
 
 |             Year           |  Season  |               Location             |
 |:--------------------------:|:--------:|:----------------------------------:|
+| [2016](2016apr)            |  Spring  | [USC][usc]                         |
 | [2015](2015dec)            |   Fall   | [Pomona College][pomona]           |
 | [2015](2015may)            |  Spring  | [Chapman University][chapman]      |
 | [2014](2014dec)            |   Fall   | [UCSD][ucsd]                       |
