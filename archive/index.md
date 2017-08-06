@@ -19,6 +19,7 @@ title: Archive
 
 |             Year           |  Season  |               Location             |
 |:--------------------------:|:--------:|:----------------------------------:|
+| [2017](2017aug)            |  Fall    | [UCI][uci]                         |
 | [2016](2016apr)            |  Spring  | [USC][usc]                         |
 | [2015](2015dec)            |   Fall   | [Pomona College][pomona]           |
 | [2015](2015may)            |  Spring  | [Chapman University][chapman]      |
