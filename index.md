@@ -9,7 +9,7 @@ title: Home
 The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
 
-This fall, we'll meet at the [University of California, Riverside][uci] on
+This fall, we'll meet at the [University of California, Riverside][ucr] on
 **Friday, September 22nd, 2017**.
 
 <img src="https://ucrtoday.ucr.edu/wp-content/uploads/2016/05/UCR_Aerial-0049-603x368.jpg">
