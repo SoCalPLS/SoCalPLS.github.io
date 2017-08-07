@@ -90,7 +90,7 @@ TBA
 * Mailing List: socal@lists.ucla.edu
   [(subscribe)](http://lists.ucla.edu/cgi-bin/mailman/listinfo/socal)
 * Local Organizers:
-  [Mohsen Lesani](http://www.cs.ucr.edu/~lesani/)
+  [Mohsen Lesani](http://www.cs.ucr.edu/~lesani/),
   [Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/)
 
 {% include common_urls.md %}
