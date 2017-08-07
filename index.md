@@ -16,7 +16,7 @@ This fall, we'll meet at the [University of California, Riverside][ucr] on
 
 ---
 
-## Workshop in Spring 2017
+## Workshop in Fall 2017
 
 The primary goals of this workshop include:
 
