@@ -33,7 +33,7 @@ Both original research and work that has been published in other venues is
 welcome!
 
 Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSfVmg4CiJumnnxl_Zlpq8mFhfQcOtVaIPRdkPLq8aaV2cjXKA/viewform?usp=sf_link)) Google
-form. The submission deadline is **Friday, September 22nd**, by the end of the day.
+form. The submission deadline is **Friday, September 1st**, by the end of the day.
 
 Selected abstracts will be presented as a talk or a poster. The program
 committee will determine the length of the talks based on the number and content
