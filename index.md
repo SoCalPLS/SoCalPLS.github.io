@@ -69,17 +69,28 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 
 ---
 
-## Schedule and Local Information
+## Accepted talks
+
+* Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, Michael Greenberg
+* Symbolic Execution of Programmable Logic Controller Code. Shengjian Guo, Meng Wu, and Chao Wang
+* Program Repair to Remove Timing Side-channel Leaks. Meng Wu
+* Structural and Nominal Cross-Language Clone Detection. Lawton Nichols, Mehmet Emre, and Ben Hardekopf
+* ParaStack: Efficient Hang Detection for MPI Programs at Large Scale. Hongbo Li, Zizhong Chen and Rajiv Gupta
+* Cause and Effect of Unsound Analysis. Jens Palsberg
+* Skyway: Connecting Managed Heaps in Distributed Big Data Systems. Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu
+* Calling-to-Reference Context Translation via Constraint-Guided CFL-Reachability. Cheng Cai (UCI), Qirun Zhang (UCD), Zhiqiang Zuo (UCI), Khanh Nguyen (UCI), Harry Xu (UCI), Zhendong Su (UCD)
+* Typed Assembly for the Zarf ISA. Michael Christensen, Joseph McMahan
+* ChemType: Programming Chemistry on Laboratories-on-a-Chip. Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk
+
+---
+
+## Schedule
 
 TBA
 
 ---
-### Driving Directions and Parking
-TBA
 
----
-### Schedule
-
+## Driving Directions and Parking
 TBA
 
 ---
