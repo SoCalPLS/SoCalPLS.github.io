@@ -46,7 +46,7 @@ acceptance.
 |-----------------------|-------------------------------------------|
 | Friday, September 1st   | Abstract submission deadline (end of day) |
 | Friday, September 8th | Notification of acceptance                |
-| Tuesday, September 12th | Registration deadline                     |
+| Tuesday, September 17th | Registration deadline                     |
 | Friday, September 22nd  | SoCal PLS Workshop                        |
 
 ---
@@ -60,6 +60,12 @@ acceptance.
 |[Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA  |
 |[Harry Xu](http://www.ics.uci.edu/~guoqingx/) | UCI  |
 |[Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/) | UCR  |
+
+---
+
+## Registration
+
+Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_vh-grpI21GrGrYdEQqljCwEF-4vHSKV3WX_thQg/viewform)) Google form.
 
 ---
 
@@ -78,11 +84,6 @@ TBA
 
 ---
 
-## Registration
-
-TBA
-
----
 
 ## Organization
 
