@@ -74,7 +74,6 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 
 |----------|--------------------------------------------------------|
 |          | Session 1 (Program Analysis)               |
-|          |                                                        |
 | 9:30AM   | Keynote: Cause and Effect of Unsound Analysis. <br> Jens Palsberg  (UCLA) |
 | 10:10AM  | Structural and Nominal Cross-Language Clone Detection. <br> Lawton Nichols, Mehmet Emre, and Ben Hardekopf  (UCSB) |
 
@@ -83,12 +82,10 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 |    | Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, <br> Michael Greenberg (Princeton University, Pomona College) |
 
 |  | ParaStack: Efficient Hang Detection for MPI Programs at Large Scale.  <br> Hongbo Li, Zizhong Chen and Rajiv Gupta (UCR) |
-
 |          |                                                        |
 | 11:50PM  | Lunch                                                  |
 |          |                                                        |
 |          | Session 2 (Security)                                   |
-|          |                                                        |
 | 12:50PM  | Keynote: Security by Compilation: An Automated Approach to Side-channel Resistance. <br> Chao Wang (USC) |
 
 | 1:30PM   | Program Repair to Remove Timing Side-channel Leaks. <br> Meng Wu (Virginia Tech) |
@@ -96,18 +93,14 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 |          |                                                        |
 | 2:20PM   | Coffee Break                                           |
 |          |                                                        |
-
 |          | Session 3 (Language Design and Type systems)                              |
-|          |     |
 | 2:35PM   | Keynote: Todd Millstein |
 | 3:15PM   | ChemType: Programming Chemistry on Laboratories-on-a-Chip. <br> Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk (UCR) |
 |          | Typed Assembly for the Zarf ISA. <br> Michael Christensen, Joseph McMahan (UCSB) |
 |          |                                                        |
 | 4:05PM   | Coffee Break                                           |
 
-
 |          | Session 4 (Parallel and Distributed Computing)                              |
-|          |                                                         |
 | 4:20PM   | Keynote: Brian Demsky |
 | 5:00PM   | Grammar-aware Parallelization for Scalable XPath Querying. <br> Lin Jiang, Zhijia Zhao  (UCR) |
 |          | Skyway: Connecting Managed Heaps in Distributed Big Data Systems. <br> Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu (UCI, University of Chicago) |
