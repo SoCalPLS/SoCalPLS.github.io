@@ -69,24 +69,64 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 
 ---
 
-## Accepted talks
-
-* Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, Michael Greenberg
-* Symbolic Execution of Programmable Logic Controller Code. Shengjian Guo, Meng Wu, and Chao Wang
-* Program Repair to Remove Timing Side-channel Leaks. Meng Wu
-* Structural and Nominal Cross-Language Clone Detection. Lawton Nichols, Mehmet Emre, and Ben Hardekopf
-* ParaStack: Efficient Hang Detection for MPI Programs at Large Scale. Hongbo Li, Zizhong Chen and Rajiv Gupta
-* Cause and Effect of Unsound Analysis. Jens Palsberg
-* Skyway: Connecting Managed Heaps in Distributed Big Data Systems. Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu
-* Calling-to-Reference Context Translation via Constraint-Guided CFL-Reachability. Cheng Cai (UCI), Qirun Zhang (UCD), Zhiqiang Zuo (UCI), Khanh Nguyen (UCI), Harry Xu (UCI), Zhendong Su (UCD)
-* Typed Assembly for the Zarf ISA. Michael Christensen, Joseph McMahan
-* ChemType: Programming Chemistry on Laboratories-on-a-Chip. Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk
-
----
-
 ## Schedule
 
-TBA
+
+|----------|--------------------------------------------------------|
+|          | Session 1 (Program Analysis)               |
+|          |                                                        |
+| 9:30AM   | Keynote: Cause and Effect of Unsound Analysis. <br> Jens Palsberg  (UCLA) |
+| 10:10AM  | Structural and Nominal Cross-Language Clone Detection. <br> Lawton Nichols, Mehmet Emre, and Ben Hardekopf  (UCSB) |
+
+|      | Calling-to-Reference Context Translation via Constraint-Guided CFL-Reachability. <br> Cheng Cai, Qirun Zhang, Zhiqiang Zuo, Khanh Nguyen, Harry Xu, Zhendong Su (UCI, UCD) |
+
+|    | Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, <br> Michael Greenberg (Princeton University, Pomona College) |
+
+|  | ParaStack: Efficient Hang Detection for MPI Programs at Large Scale.  <br> Hongbo Li, Zizhong Chen and Rajiv Gupta (UCR) |
+
+|          |                                                        |
+| 11:50PM  | Lunch                                                  |
+|          |                                                        |
+|          | Session 2 (Security)                                   |
+|          |                                                        |
+| 12:50PM  | Keynote: Security by Compilation: An Automated Approach to Side-channel Resistance. <br> Chao Wang (USC) |
+
+| 1:30PM   | Program Repair to Remove Timing Side-channel Leaks. <br> Meng Wu (Virginia Tech) |
+|          | Symbolic Execution of Programmable Logic Controller Code. <br> Shengjian Guo, Meng Wu, and Chao Wang (Virginia Tech/USC) |
+|          |                                                        |
+| 2:20PM   | Coffee Break                                           |
+|          |                                                        |
+
+|          | Session 3 (Language Design and Type systems)                              |
+|          |     |
+| 2:35PM   | Keynote: Todd Millstein |
+| 3:15PM   | ChemType: Programming Chemistry on Laboratories-on-a-Chip. <br> Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk (UCR) |
+|          | Typed Assembly for the Zarf ISA. <br> Michael Christensen, Joseph McMahan (UCSB) |
+|          |                                                        |
+| 4:05PM   | Coffee Break                                           |
+
+
+|          | Session 4 (Parallel and Distributed Computing)                              |
+|          |                                                         |
+| 4:20PM   | Keynote: Brian Demsky |
+| 5:00PM   | Grammar-aware Parallelization for Scalable XPath Querying. <br> Lin Jiang, Zhijia Zhao  (UCR) |
+|          | Skyway: Connecting Managed Heaps in Distributed Big Data Systems. <br> Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu (UCI, University of Chicago) |
+|          |                                                        |
+| 5:50PM   | Coffee Break                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
