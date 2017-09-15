@@ -93,7 +93,7 @@ acceptance.
 |-----------------------|-------------------------------------------|
 | Friday, September 1st   | Abstract submission deadline (end of day) |
 | Friday, September 8th | Notification of acceptance                |
-| Tuesday, September 17th | Registration deadline                     |
+| Sunday, September 17th | Registration deadline                     |
 | Friday, September 22nd  | SoCal PLS Workshop                        |
 
 ---
