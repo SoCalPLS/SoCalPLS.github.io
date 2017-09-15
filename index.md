@@ -27,50 +27,15 @@ The primary goals of this workshop include:
   areas!
 
 ---
-## Submission Guidelines
-
-Both original research and work that has been published in other venues is
-welcome!
-
-Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSfVmg4CiJumnnxl_Zlpq8mFhfQcOtVaIPRdkPLq8aaV2cjXKA/viewform?usp=sf_link)) Google form. The submission deadline is **Friday, September 1st**, by the end of the day.
-
-Selected abstracts will be presented as a talk or a poster. The program
-committee will determine the length of the talks based on the number and content
-of the abstracts; and they'll provide more information when they notify you of
-acceptance.
-
----
-
-## Important Dates
-
-|-----------------------|-------------------------------------------|
-| Friday, September 1st   | Abstract submission deadline (end of day) |
-| Friday, September 8th | Notification of acceptance                |
-| Tuesday, September 17th | Registration deadline                     |
-| Friday, September 22nd  | SoCal PLS Workshop                        |
-
----
-
-## Program Committee
-
-|--------------------|---------|
-|[Rajiv Gupta](http://www.cs.ucr.edu/~gupta/)               | UCR     |
-|[Ranjit Jhala](https://ranjitjhala.github.io/) | UCSD  |
-|[Mohsen Lesani](http://www.cs.ucr.edu/~lesani/)               | UCR |
-|[Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA  |
-|[Harry Xu](http://www.ics.uci.edu/~guoqingx/) | UCI  |
-|[Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/) | UCR  |
-
----
 
 ## Registration
 
-Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_vh-grpI21GrGrYdEQqljCwEF-4vHSKV3WX_thQg/viewform)) Google form.
+Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_vh-grpI21GrGrYdEQqljCwEF-4vHSKV3WX_thQg/viewform) Google form.
 
 ---
 
-## Schedule
 
+## Schedule
 
 |----------|--------------------------------------------------------|
 |          | Session 1 (Program Analysis)               |
@@ -108,23 +73,45 @@ Please register using ([this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP
 | 5:50PM   | Coffee Break                                           |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## Driving Directions and Parking
 TBA
+
+---
+## Submission Guidelines
+
+Both original research and work that has been published in other venues is
+welcome!
+
+Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSfVmg4CiJumnnxl_Zlpq8mFhfQcOtVaIPRdkPLq8aaV2cjXKA/viewform?usp=sf_link)) Google form. The submission deadline is **Friday, September 1st**, by the end of the day.
+
+Selected abstracts will be presented as a talk or a poster. The program
+committee will determine the length of the talks based on the number and content
+of the abstracts; and they'll provide more information when they notify you of
+acceptance.
+
+---
+
+## Important Dates
+
+|-----------------------|-------------------------------------------|
+| Friday, September 1st   | Abstract submission deadline (end of day) |
+| Friday, September 8th | Notification of acceptance                |
+| Tuesday, September 17th | Registration deadline                     |
+| Friday, September 22nd  | SoCal PLS Workshop                        |
+
+---
+
+## Program Committee
+
+|--------------------|---------|
+|[Rajiv Gupta](http://www.cs.ucr.edu/~gupta/)               | UCR     |
+|[Ranjit Jhala](https://ranjitjhala.github.io/) | UCSD  |
+|[Mohsen Lesani](http://www.cs.ucr.edu/~lesani/)               | UCR |
+|[Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA  |
+|[Harry Xu](http://www.ics.uci.edu/~guoqingx/) | UCI  |
+|[Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/) | UCR  |
 
 ---
 
