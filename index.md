@@ -55,13 +55,13 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 | 2:20PM   | Coffee Break                                           |
 |          |                                                        |
 |          | Session 3 (Language Design and Type systems)                              |
-| 2:35PM   | Keynote: Todd Millstein (UCLA) |
+| 2:35PM   | Keynote: "Safe" Languages Require Sequential Consistency. Todd Millstein (UCLA) |
 | 3:15PM   | ChemType: Programming Chemistry on Laboratories-on-a-Chip. <br> Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk (UCR) |
 | 3:40PM   | Typed Assembly for the Zarf ISA. <br> Michael Christensen, Joseph McMahan (UCSB) |
 |          |                                                        |
 | 4:05PM   | Coffee Break                                           |
 |          | Session 4 (Parallel and Distributed Computing)                              |
-| 4:20PM   | Keynote: Brian Demsky (UCI) |
+| 4:20PM   | Keynote: SAT-Directed Stateless Model Checking. Brian Demsky (UCI) |
 | 5:00PM   | Grammar-aware Parallelization for Scalable XPath Querying. <br> Lin Jiang, Zhijia Zhao  (UCR) |
 | 5:25PM         | Skyway: Connecting Managed Heaps in Distributed Big Data Systems. <br> Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu (UCI, University of Chicago) |
 |          |                                                        |
