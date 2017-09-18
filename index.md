@@ -45,7 +45,7 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 | 11:00AM   | Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, <br> Michael Greenberg (Princeton University, Pomona College) |
 | 11:25AM | ParaStack: Efficient Hang Detection for MPI Programs at Large Scale.  <br> Hongbo Li, Zizhong Chen and Rajiv Gupta (UCR) |
 |          |                                                        |
-| 11:50PM  | Lunch                                                  |
+| 11:50AM  | Lunch                                                  |
 |          |                                                        |
 |          | Session 2 (Security)                                   |
 | 12:50PM  | Keynote: Security by Compilation: An Automated Approach to Side-channel Resistance. <br> Chao Wang (USC) |
@@ -60,12 +60,13 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 | 3:40PM   | Typed Assembly for the Zarf ISA. <br> Michael Christensen, Joseph McMahan (UCSB) |
 |          |                                                        |
 | 4:05PM   | Coffee Break                                           |
+|          |                                                        |
 |          | Session 4 (Parallel and Distributed Computing)                              |
 | 4:20PM   | Keynote: SAT-Directed Stateless Model Checking. Brian Demsky (UCI) |
 | 5:00PM   | Grammar-aware Parallelization for Scalable XPath Querying. <br> Lin Jiang, Zhijia Zhao  (UCR) |
 | 5:25PM         | Skyway: Connecting Managed Heaps in Distributed Big Data Systems. <br> Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu (UCI, University of Chicago) |
 |          |                                                        |
-| 5:50PM   | Coffee Break                                           |
+| 5:50PM   |                                            |
 
 
 ---
