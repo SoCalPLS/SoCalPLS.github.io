@@ -4,22 +4,9 @@ icon: archive
 title: Archive
 ---
 
-{% comment %}
-  TODO: Automate generation of table from directory tree can't be done without
-        3rd party Jekyll plugins. And GitHub runs Jekyll with --safe, so 3rd
-        party plugins are disabled.
-        Jekyll collections are of zero help.
-
-        Of course compiling on our machines and pushing static pages is a
-        solution, but that defeats the purpose I guess; I would rather just add
-        a line here ... every 6 months.
-{% endcomment %}
-
-
-
 |             Year           |  Season  |               Location             |
 |:--------------------------:|:--------:|:----------------------------------:|
-| [2016](2017aug)            |  Fall    | [UCI][uci]                         |
+| [2016](2016nov)            |  Fall    | [UCI][uci]                         |
 | [2016](2016apr)            |  Spring  | [USC][usc]                         |
 | [2015](2015dec)            |   Fall   | [Pomona College][pomona]           |
 | [2015](2015may)            |  Spring  | [Chapman University][chapman]      |

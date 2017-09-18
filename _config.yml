@@ -8,8 +8,13 @@ permalink:        pretty
 title:            SoCal PLS
 description:      'The SoCal Programming Languages and Systems Workshop'
 url:              http://socalpls.github.io/
-baseurl:          /
+baseurl:
 
 author:
   name: 'Saswat Padhi'
   url: http://saswatpadhi.github.io/
+
+defaults:
+  -
+    values:
+      layout: "default"
