@@ -79,9 +79,9 @@ The following map shows your route.
 <br>
 Drive off highway CA-60 (I-215N if coming from San Diego) at University Ave, then follow the red route in the map below to the Kiosk (on West Campus Dr). 
 To find the Kiosk, search (Google) “UCR Information Kiosk - West Campus Drive”.
-
+<br>
 At the Kiosk, depending on whether you have a permit form another UC campus:
-
+<br>
 1. 1. If yes, show your permit and get a UCR permit. Faculty/staff who work at another UC and have a long term (quarter or annual) parking permit from that campus can get a UCR permit.
 
 1. 2. If no, you can simply mention the name of our workshop and your name and get a Red Parking Permit for Lot 13. We already paid. 
