@@ -77,10 +77,10 @@ The following map shows your route.
 
 1. Getting the permit
 <br>
-Drive off highway CA-60 (I-215N if coming from San Diego) at University Ave, then follow the red route in the map below to the Kiosk (on West Campus Dr). 
-To find the Kiosk, search (Google) “UCR Information Kiosk - West Campus Drive”.
+Drive off highway CA-60 (I-215N if coming from San Diego) at University Ave, then follow the red route in the map below to the Information Kiosk (on West Campus Dr). 
+To find the kiosk, search (Google) “UCR Information Kiosk - West Campus Drive”.
 <br>
-At the Kiosk, depending on whether you have a permit form another UC campus:
+At the Kiosk, depending on whether you have a parking permit form another UC campus:
 <br>
 * If yes, show your permit and get a UCR permit. Faculty/staff who work at another UC and have a long term (quarter or annual) parking permit from that campus can get a UCR permit.
 * If no, you can simply mention the name of our workshop and your name and get a Red Parking Permit for Lot 13. We already paid. 
@@ -88,7 +88,7 @@ At the Kiosk, depending on whether you have a permit form another UC campus:
 
 2. Parking the car
 <br>
-You will continue in the same direction and drive around the campus to reach the parking Lot 13. To find the Parking Lot, search (Google) “UCR parking Lot 13”. Please follow the signs and only park places for Red permits. 
+You will continue in the same direction and drive around the campus to reach the parking Lot 13. To find the parking lot, search (Google) “UCR parking Lot 13”. Please follow the signs and only park in places for Red permits. 
 
 3. Walking to the Winston Chung Hall (WCH)
 <br>
