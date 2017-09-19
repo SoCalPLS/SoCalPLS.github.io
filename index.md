@@ -82,9 +82,9 @@ To find the Kiosk, search (Google) â€œUCR Information Kiosk - West Campus Driveâ
 
 At the Kiosk, depending on whether you have a permit form another UC campus:
 
-1.1. If yes, show your permit and get a UCR permit. Faculty/staff who work at another UC and have a long term (quarter or annual) parking permit from that campus can get a UCR permit.
+1. 1. If yes, show your permit and get a UCR permit. Faculty/staff who work at another UC and have a long term (quarter or annual) parking permit from that campus can get a UCR permit.
 
-1.2. If no, you can simply mention the name of our workshop and your name and get a Red Parking Permit for Lot 13. We already paid. 
+1. 2. If no, you can simply mention the name of our workshop and your name and get a Red Parking Permit for Lot 13. We already paid. 
 
 
 2. Parking the car
