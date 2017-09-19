@@ -72,7 +72,15 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 ---
 
 ## Driving Directions and Parking
-TBA
+Directions: The following map shows your route. First drive off highway CA-60 (I-215N if coming from San Diego) at University Ave, then follow the red route to the Kiosk (on West Campus Dr). At the Kiosk, you can simply mention the name of our workshop and get a Red Parking Permit for Lot 13 (we already paid). You will continue in the same direction and drive around the campus to reach the parking Lot 13. Please follow the signs and only park places for Red permits. From the parking lot, you will walk to the Winston Chung Hall (WCH) in about 5 mins. The workshop will be in room number 138 that is located in the back of the Winston Chung Hall (pointed by the finger in the map). The door of Room 138 directly opens to outside.
+
+<br>
+To find the Kiosk, search (Google) “UCR Information Kiosk - West Campus Drive”
+<br>
+To find the Parking Lot, search(Google) “UCR parking Lot 13”
+<br>
+<img src="Map.jpg">
+
 
 ---
 ## Submission Guidelines
