@@ -102,7 +102,7 @@ acceptance.
 ## Program Committee
 
 |--------------------|---------|
-|[Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/)               | UCR     |
+|[Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/)               | UCSD     |
 |[Ranjit Jhala](https://ranjitjhala.github.io/) | UCSD  |
 |[Yu Feng](https://fredfeng.github.io/) | UCSB  |
 |[Mukund Raghothaman](https://r-mukund.github.io/) | USC |
