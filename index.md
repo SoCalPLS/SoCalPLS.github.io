@@ -10,27 +10,26 @@ The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
 
 This spring, we'll meet at the [University of California, San Diego][ucsd] on
-**Friday, September 22nd, 2017**.
+**Friday, February 7th, 2025**.
 
-<img src="https://ucrtoday.ucr.edu/wp-content/uploads/2016/05/UCR_Aerial-0049-603x368.jpg">
+<img src="https://www.everydaycalifornia.com/cdn/shop/articles/unnamed_be0d7cf0-c8fc-4196-b3f3-2f8cc523de71.jpg?v=1664907751&width=1400">
 
 ---
 
-## Workshop in Fall 2017
+## Workshop in Spring 2025
 
 The primary goals of this workshop include:
 
 * Providing a friendly environment for students and other researchers to present
   their work.
 * Strengthening ties between local institutions.
-* Learning about cool happenings in programming languages, systems, and related
-  areas!
+* Learning about cool things happenings in programming languages, systems, and related areas!
 
 ---
 
 ## Registration
 
-Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_vh-grpI21GrGrYdEQqljCwEF-4vHSKV3WX_thQg/viewform) Google form.
+Please register using [this](urltogohere) Google form.
 
 ---
 
@@ -38,33 +37,33 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 ## Schedule
 
 |----------|--------------------------------------------------------|
-|          | Session 1 (Program Analysis)               |
-| 9:30AM   | Keynote: Cause and Effect of Unsound Analysis. <br> Jens Palsberg  (UCLA) |
-| 10:10AM  | Structural and Nominal Cross-Language Clone Detection. <br> Lawton Nichols, Mehmet Emre, and Ben Hardekopf  (UCSB) |
-| 10:35AM    | Calling-to-Reference Context Translation via Constraint-Guided CFL-Reachability. <br> Cheng Cai, Qirun Zhang, Zhiqiang Zuo, Khanh Nguyen, Harry Xu, Zhendong Su (UCI, UCD) |
-| 11:00AM   | Kleene algebra modulo theories. Ryan Beckett, Eric Campbell, <br> Michael Greenberg (Princeton University, Pomona College) |
-| 11:25AM | ParaStack: Efficient Hang Detection for MPI Programs at Large Scale.  <br> Hongbo Li, Zizhong Chen and Rajiv Gupta (UCR) |
+|          | Session 1 (TBD)               |
+| 9:30AM   | Keynote: TBD. <br> TBD (TBD) |
+| 10:10AM  | TBD. <br> TBD  |
+| 10:35AM    | TBD. <br> TBD |
+| 11:00AM   | TBD. <br> TBD |
+| 11:25AM | TBD. <br> TBD |
 |          |                                                        |
 | 11:50AM  | Lunch                                                  |
 |          |                                                        |
-|          | Session 2 (Security)                                   |
-| 12:50PM  | Keynote: Security by Compilation: An Automated Approach to Side-channel Resistance. <br> Chao Wang (USC) |
-| 1:30PM   | Program Repair to Remove Timing Side-channel Leaks. <br> Meng Wu (Virginia Tech) |
-| 1:55PM   | Symbolic Execution of Programmable Logic Controller Code. <br> Shengjian Guo, Meng Wu, and Chao Wang (Virginia Tech/USC) |
+|          | Session 2 (TBD)                                   |
+| 12:50PM  | Keynote: TBD. <br> TBD  |
+| 1:30PM   | TBD. <br> TBD  |
+| 1:55PM   | TBD. <br> TBD  |
 |          |                                                        |
 | 2:20PM   | Coffee Break                                           |
 |          |                                                        |
-|          | Session 3 (Language Design and Type systems)                              |
-| 2:35PM   | Keynote: "Safe" Languages Require Sequential Consistency. <br> Todd Millstein (UCLA) |
-| 3:15PM   | ChemType: Programming Chemistry on Laboratories-on-a-Chip. <br> Jason Ott, Chris Curtis, Tyson Loveless, Mohsen Lesani, Philip Brisk (UCR) |
-| 3:40PM   | Typed Assembly for the Zarf ISA. <br> Michael Christensen, Joseph McMahan (UCSB) |
+|          | Session 3 (TBD)                              |
+| 2:35PM   | Keynote: TBD. <br> TBD  |
+| 3:15PM   | TBD. <br> TBD  |
+| 3:40PM   | TBD. <br> TBD  |
 |          |                                                        |
 | 4:05PM   | Coffee Break                                           |
 |          |                                                        |
-|          | Session 4 (Parallel and Distributed Computing)                              |
-| 4:20PM   | Keynote: SAT-Directed Stateless Model Checking. <br> Brian Demsky (UCI)     |
-| 5:00PM   | Grammar-aware Parallelization for Scalable XPath Querying. <br> Lin Jiang, Zhijia Zhao  (UCR) |
-| 5:25PM         | Skyway: Connecting Managed Heaps in Distributed Big Data Systems. <br> Khanh Nguyen, Lu Fang, Christian Navasca, Harry Xu, Brian Demsky, Shan Lu (UCI, University of Chicago) |
+|          | Session 4 (TBD)                              |
+| 4:20PM   | Keynote: TBD. <br> TBD  |
+| 5:00PM   | TBD. <br> TBD  |
+| 5:25PM   | TBD. <br> TBD  |
 |          |                                                        |
 | 5:50PM   |                                            |
 
@@ -73,38 +72,15 @@ Please register using [this](https://docs.google.com/forms/d/e/1FAIpQLSeHhsugXP_
 
 ## Driving Directions and Parking
 
-The following map shows your route.
-
-1. Getting the permit
-<br>
-Drive off highway CA-60 (I-215N if coming from San Diego) at University Ave, then follow the red route in the map below to the Information Kiosk (on West Campus Dr). 
-To find the kiosk, search (Google) “UCR Information Kiosk - West Campus Drive”.
-<br>
-At the Kiosk, depending on whether you have a parking permit form another UC campus:
-<br>
-* If yes, show your permit and get a UCR permit. Faculty/staff who work at another UC and have a long term (quarter or annual) parking permit from that campus can get a UCR permit.
-* If no, you can simply mention the name of our workshop and your name and get a Red Parking Permit for Lot 13. We already paid. 
-
-
-2. Parking the car
-<br>
-You will continue in the same direction and drive around the campus to reach the parking Lot 13. To find the parking lot, search (Google) “UCR parking Lot 13”. Please follow the signs and only park in places for Red permits. 
-
-3. Walking to the Winston Chung Hall (WCH)
-<br>
-From the parking lot, you will walk to WCH in about 5 mins. The workshop will be in room number 138 that is located in the back of WCH (pointed by the finger in the map). The door of Room 138 directly opens to outside.
-
-
-<img src="Map.jpg">
+Campus parking is very limited and is not recommended. You can check available options here. The closest parking lot for visitors is located on the top floor of [Hopkins Parking Structure](https://www.google.com/maps/place/Hopkins+Parking/@32.8837791,-117.2419775,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc06c1e6156103:0xc6690b999c002d97!8m2!3d32.8837791!4d-117.2394026!16s%2Fg%2F1jky0r__3?entry=tts). You can pay the fee in pay station or pay-by-phone. Note that most visitor spots are limited to two hours. Even though the app allows you to pay for longer periods, you will get a ticket after that time.
 
 
 ---
 ## Submission Guidelines
 
-Both original research and work that has been published in other venues is
-welcome!
+Both original research and work that has been published in other venues is welcome!
 
-Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSfVmg4CiJumnnxl_Zlpq8mFhfQcOtVaIPRdkPLq8aaV2cjXKA/viewform?usp=sf_link)) Google form. The submission deadline is **Friday, September 1st**, by the end of the day.
+Authors should submit abstracts of at most ~300 words via ([this](tbd)) Google form. The submission deadline is **Friday, September 1st**, by the end of the day.
 
 Selected abstracts will be presented as a talk or a poster. The program
 committee will determine the length of the talks based on the number and content
@@ -116,32 +92,34 @@ acceptance.
 ## Important Dates
 
 |-----------------------|-------------------------------------------|
-| Friday, September 1st   | Abstract submission deadline (end of day) |
-| Friday, September 8th | Notification of acceptance                |
-| Sunday, September 17th | Registration deadline                     |
-| Friday, September 22nd  | SoCal PLS Workshop                        |
+| Friday, January 10th  | Abstract submission deadline (end of day) |
+| Friday, January 17th  | Notification of acceptance                |
+| Friday, January 31st  | Registration deadline                     |
+| Friday, February 7th  | SoCal PLS Workshop                        |
 
 ---
 
 ## Program Committee
 
 |--------------------|---------|
-|[Rajiv Gupta](http://www.cs.ucr.edu/~gupta/)               | UCR     |
+|[Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/)               | UCR     |
 |[Ranjit Jhala](https://ranjitjhala.github.io/) | UCSD  |
-|[Mohsen Lesani](http://www.cs.ucr.edu/~lesani/)               | UCR |
+|[Yu Feng](https://fredfeng.github.io/) | UCSB  |
+|[Mukund Raghothaman](https://r-mukund.github.io/) | USC |
 |[Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA  |
-|[Harry Xu](http://www.ics.uci.edu/~guoqingx/) | UCI  |
-|[Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/) | UCR  |
+|[Manu Shridharan](https://manu.sridharan.net/) | UCR  |
+|[Jens Palsberg](https://web.cs.ucla.edu/~palsberg/) | UCLA  |
 
 ---
 
 
 ## Organization
 
-* Mailing List: socal@lists.ucla.edu
+<!--* Mailing List: socal@lists.ucla.edu
   [(subscribe)](http://lists.ucla.edu/cgi-bin/mailman/listinfo/socal)
+  -->  
 * Local Organizers:
-  [Mohsen Lesani](http://www.cs.ucr.edu/~lesani/),
-  [Zhijia Zhao](http://www.cs.ucr.edu/~zhijia/)
+  [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/)  
+[Ranjit Jhala](https://ranjitjhala.github.io/)  
 
 {% include common_urls.md %}
