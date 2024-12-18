@@ -4,7 +4,7 @@ icon: home
 title: Home
 ---
 
-# 18th SoCal PLS: <br> Programming Languages and Systems
+# 19th SoCal PLS: <br> Programming Languages and Systems
 
 The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
