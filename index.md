@@ -16,7 +16,7 @@ This spring, we'll meet at the [University of California, San Diego][ucsd] on
 
 ---
 
-## Workshop in Spring 2025
+## Workshop in Winter 2025
 
 The primary goals of this workshop include:
 
@@ -27,9 +27,32 @@ The primary goals of this workshop include:
 
 ---
 
+## Submission Guidelines
+
+Both original research and work that has been published in other venues is welcome!
+
+Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSf2X31DYMV4r3mbJvN0dsblQHaJ_ljmBfgc8zFcVxRX2XX1bg/viewform?pli=1)) Google form. The submission deadline is **Friday, January 10th**, by the end of the day.
+
+Selected abstracts will be presented as a talk or a poster. The program
+committee will determine the length of the talks based on the number and content
+of the abstracts; and they'll provide more information when they notify you of
+acceptance.
+
+---
+
+## Important Dates
+
+|-----------------------|-------------------------------------------|
+| Friday, January 10th  | Abstract submission deadline (end of day) |
+| Friday, January 17th  | Notification of acceptance                |
+| Friday, January 31st  | Registration deadline                     |
+| Friday, February 7th  | SoCal PLS Workshop                        |
+
+---
+
 ## Registration
 
-Please register using [this](urltogohere) Google form.
+TBD (likely there will be a small registration fee to cover lunch/coffee)
 
 ---
 
@@ -75,27 +98,6 @@ Please register using [this](urltogohere) Google form.
 Campus parking is very limited and is not recommended. You can check available options here. The closest parking lot for visitors is located on the top floor of [Hopkins Parking Structure](https://www.google.com/maps/place/Hopkins+Parking/@32.8837791,-117.2419775,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc06c1e6156103:0xc6690b999c002d97!8m2!3d32.8837791!4d-117.2394026!16s%2Fg%2F1jky0r__3?entry=tts). You can pay the fee in pay station or pay-by-phone. Note that most visitor spots are limited to two hours. Even though the app allows you to pay for longer periods, you will get a ticket after that time.
 
 
----
-## Submission Guidelines
-
-Both original research and work that has been published in other venues is welcome!
-
-Authors should submit abstracts of at most ~300 words via ([this](tbd)) Google form. The submission deadline is **Friday, September 1st**, by the end of the day.
-
-Selected abstracts will be presented as a talk or a poster. The program
-committee will determine the length of the talks based on the number and content
-of the abstracts; and they'll provide more information when they notify you of
-acceptance.
-
----
-
-## Important Dates
-
-|-----------------------|-------------------------------------------|
-| Friday, January 10th  | Abstract submission deadline (end of day) |
-| Friday, January 17th  | Notification of acceptance                |
-| Friday, January 31st  | Registration deadline                     |
-| Friday, February 7th  | SoCal PLS Workshop                        |
 
 ---
 
