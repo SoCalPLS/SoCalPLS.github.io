@@ -10,7 +10,9 @@ The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
 
 This spring, we'll meet at the [University of California, San Diego][ucsd] on
-**Friday, February 7th, 2025**.
+Friday, February 7th, 2025.
+
+**Submit abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSf2X31DYMV4r3mbJvN0dsblQHaJ_ljmBfgc8zFcVxRX2XX1bg/viewform?pli=1)) by Friday, January 10th**
 
 <img src="https://www.everydaycalifornia.com/cdn/shop/articles/unnamed_be0d7cf0-c8fc-4196-b3f3-2f8cc523de71.jpg?v=1664907751&width=1400">
 
