@@ -9,8 +9,9 @@ title: Home
 The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
 
-This spring, we'll meet at the [University of California, San Diego][ucsd] on
+This spring, we'll meet at the [University of California, San Diego][ucsd] in room CSE (Computer Science and Engineering) 1202 on
 Friday, February 7th, 2025.
+
 
 ### Submit abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSf2X31DYMV4r3mbJvN0dsblQHaJ_ljmBfgc8zFcVxRX2XX1bg/viewform?pli=1) by Friday, January 10th ###
 
@@ -33,8 +34,6 @@ The primary goals of this workshop include:
 
 Both original research and work that has been published in other venues is welcome!
 
-Authors should submit abstracts of at most ~300 words via ([this](https://docs.google.com/forms/d/e/1FAIpQLSf2X31DYMV4r3mbJvN0dsblQHaJ_ljmBfgc8zFcVxRX2XX1bg/viewform?pli=1)) Google form. The submission deadline is **Friday, January 10th**, by the end of the day.
-
 Selected abstracts will be presented as a talk or a poster. The program
 committee will determine the length of the talks based on the number and content
 of the abstracts; and they'll provide more information when they notify you of
@@ -54,7 +53,9 @@ acceptance.
 
 ## Registration
 
-TBD (likely there will be a small registration fee to cover lunch/coffee)
+Registration is 50 dollars for academics and 150 dollars for non academics and will cover the costs associated with the event.
+
+Link
 
 ---
 
@@ -63,34 +64,43 @@ TBD (likely there will be a small registration fee to cover lunch/coffee)
 
 |----------|--------------------------------------------------------|
 |          | Session 1 (TBD)               |
-| 9:30AM   | Keynote: TBD. <br> TBD (TBD) |
-| 10:10AM  | TBD. <br> TBD  |
-| 10:35AM    | TBD. <br> TBD |
-| 11:00AM   | TBD. <br> TBD |
-| 11:25AM | TBD. <br> TBD |
+| 9:15AM   | Talk |
+| 10:02AM  | Talk |
+| 10:19AM  | Talk |
+| 10:36AM  | Talk |
 |          |                                                        |
-| 11:50AM  | Lunch                                                  |
+| 10:52AM  | Coffee Break |
+|          |                                                        |
+|          | Session 2 (TBD)               |
+| 11:10AM  | Talk |
+| 11:27AM  | Talk |
+| 11:44AM  | Talk |
+| 12:01AM  | Talk |
+|          |                                                        |
+| 12:18AM  | Lunch                                                  |
 |          |                                                        |
 |          | Session 2 (TBD)                                   |
-| 12:50PM  | Keynote: TBD. <br> TBD  |
-| 1:30PM   | TBD. <br> TBD  |
-| 1:55PM   | TBD. <br> TBD  |
+| 1:30AM  | Talk |
+| 1:47AM  | Talk |
+| 2:04AM  | Talk |
+| 2:21AM  | Talk |
 |          |                                                        |
-| 2:20PM   | Coffee Break                                           |
+| 2:38PM   | Coffee Break                                           |
 |          |                                                        |
 |          | Session 3 (TBD)                              |
-| 2:35PM   | Keynote: TBD. <br> TBD  |
-| 3:15PM   | TBD. <br> TBD  |
-| 3:40PM   | TBD. <br> TBD  |
+| 2:55AM   | Talk |
+| 3:12AM   | Talk |
+| 3:29AM   | Talk |
+| 3:46AM   | Talk |
 |          |                                                        |
-| 4:05PM   | Coffee Break                                           |
+| 4:03PM   | Short Break                                           |
 |          |                                                        |
 |          | Session 4 (TBD)                              |
 | 4:20PM   | Keynote: TBD. <br> TBD  |
-| 5:00PM   | TBD. <br> TBD  |
-| 5:25PM   | TBD. <br> TBD  |
-|          |                                                        |
-| 5:50PM   |                                            |
+| 4:37PM   | TBD. <br> TBD  |
+| 4:54PM   | TBD. <br> TBD  |
+|          |                                     |
+| 5:10PM   |  Social gatherings                  |
 
 
 ---
