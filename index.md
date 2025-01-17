@@ -61,6 +61,7 @@ Link
 
 
 ## Schedule
+
 |----------|--------------------------------------------------------|
 |          | Session 1 (Fault Localization and Repair)               |
 | 9:45AM   | Using LLMs for Static Fault Location. <br> Rui Yang (UCR) |
