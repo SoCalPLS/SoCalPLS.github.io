@@ -12,7 +12,7 @@ programming languages and systems researchers in Southern California.
 This spring, we'll meet at the [University of California, San Diego][ucsd] in room CSE (Computer Science and Engineering) 1202 on
 Friday, February 7th, 2025.
 
-## [Registration Link](www.eventbrite.com/e/1146554438189) ##
+## [Registration Link](https://www.eventbrite.com/e/1146554438189) ##
 
 <s> Submit abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLSf2X31DYMV4r3mbJvN0dsblQHaJ_ljmBfgc8zFcVxRX2XX1bg/viewform?pli=1) by Friday, January 10th </s>
 
