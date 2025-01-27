@@ -73,7 +73,8 @@ Sara Baradaran (USC) |
 | 10:30AM | Enhancing Resource Leak Detection and Safe Repair with Inference, Code Transformations, and LLM-Based Fix Generation.
 Sanjay Malakar (UCR) | 
 | | | 
-| 10:45AM | Coffee Break | | 
+| 10:45AM | Coffee Break | 
+| 
 | | | 
 | Session 2 (PL Usability) | 
 | 11:10AM | Automated Verification 101: How Verifiers Impact Software Engineering. Eric Mugnier (UCSD) | 
@@ -83,7 +84,8 @@ Ruanqianqian (Lisa) Huang (UCSD) |
 Ilana Shapiro (UCSD) | 
 | 11:55AM | Plottery: Sculpting Plots with Code, GUI, and AI. Brian Hempel (UCSD) | 
 | | | 
-| 12:10AM | Lunch | | | | 
+| 12:10AM | Lunch | 
+| | | 
 | | Session 3 (Program Analysis) | | 1:30PM | Guiding LLM Code Generation with Fixed-Prefix Program Spaces.
 Timothy Zhou (UCSD) | 
 | 1:45PM | The Hyperflow Graph: An Intermediate Representation for Hardware Security Verification.
@@ -91,16 +93,22 @@ Andres Meza (UCSD) |
 | 2:00PM | Practical Security Analysis of Zero-Knowledge Proof Circuits.
 Hongbo Wen (UCSB) | 
 | 2:15PM | An Incremental Algorithm for Algebraic Program Analysis.
-Chenyu Zhou (USC) | | | | 
-| 2:30PM | Coffee Break | | | | | | Session 3 (Solvers) | | 2:55PM | Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification .
+Chenyu Zhou (USC) | 
+| | | 
+| 2:30PM | Coffee Break | 
+| | | | 
+| Session 3 (Solvers) | | 2:55PM | Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification .
 Kyle Thompson (UCSD) |
 | 3:10PM | Certifying Zero-Knowledge Circuits with Refinement Types .
 Junrui Liu (UCSB) | 
 | 3:25PM | Data-Driven Assumption Weakening for Implication Lemma Synthesis.
 Ana Brendel (UCLA) | 
 | 3:40PM | Compiler-Assisted Optimization of Finite Field Arithmetic via Refinement Types.
-Yanju Chen (UCSB) | | | | 
-| 3:55PM | Short Break | | | | | | Session 4 (Solvers) | | 4:20PM | Destructive E-Graph Rewrites.
+Yanju Chen (UCSB) | 
+| | | 
+| 3:55PM | Short Break | 
+| | | | 
+| Session 4 (Solvers) | | 4:20PM | Destructive E-Graph Rewrites.
 Paul Zhang (UCLA) | 
 | 4:35PM | Bit Blasting Probabilistic Programs.
 Poorva Garg (UCLA) | 
