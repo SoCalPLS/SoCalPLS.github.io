@@ -63,44 +63,26 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 
 ## Schedule
 
-|----------|--------------------------------------------------------|
-|          | Session 1 (Fault Localization and Repair)               |
-| 9:45AM   | Using LLMs for Static Fault Location. <br> Rui Yang (UCR) |
-| 10:00AM  | “How Does My Code Work?”: Local Explanations for Program Behaviors. <br> Amirmohammad Nazari (USC)  |
-| 10:15AM  | Fault Localization Through Probabilistic Models of Program Execution. <br> Sara Baradaran (USC) |
-|          |                                                        |
-| 10:30AM  | Coffee Break |
-|          |                                                        |
-|          | Session 2 (PL Usability)               |
-| 11:00AM  | Automated Verification 101: How Verifiers Impact Software Engineering. <br> Eric Mugnier (UCSD) |
-| 11:15AM  | How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities. <br> Ruanqianqian (Lisa) Huang (UCSD) |
-| 11:30AM  | Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora. <br> Ilana Shapiro (UCSD) |
-| 11:45AM  | Plottery: Sculpting Plots with Code, GUI, and AI. <br> Brian Hempel (UCSD) |
-|          |                                                        |
-| 12:00AM  | Lunch                                                  |
-|          |                                                        |
-|          | Session 3 (Program Analysis)                                   |
-| 1:30PM   | Guiding LLM Code Generation with Fixed-Prefix Program Spaces. <br> Timothy Zhou (UCSD) |
-| 1:45PM   | The Hyperflow Graph: An Intermediate Representation for Hardware Security Verification. <br> Andres Meza (UCSD) |
-| 2:00PM   | Practical Security Analysis of Zero-Knowledge Proof Circuits. <br> Hongbo Wen (UCSB) |
-| 2:15PM   | An Incremental Algorithm for Algebraic Program Analysis. <br> Chenyu Zhou (USC) |
-|          |                                                        |
-| 2:30PM   | Coffee Break                                           |
-|          |                                                        |
-|          | Session 3 (Solvers)                              |
-| 2:55PM   | Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification . <br> Kyle Thompson (UCSD) |
-| 3:10PM   | Certifying Zero-Knowledge Circuits with Refinement Types . <br> Junrui Liu (UCSB) |
-| 3:25PM   | Data-Driven Assumption Weakening for Implication Lemma Synthesis. <br> Ana Brendel (UCLA) |
-| 3:40PM   | Compiler-Assisted Optimization of Finite Field Arithmetic via Refinement Types. <br> Yanju Chen (UCSB)  |
-|          |                                                        |
-| 3:55PM   | Short Break                                           |
-|          |                                                        |
-|          | Session 4 (Solvers)            |
-| 4:20PM   | Destructive E-Graph Rewrites. <br> Paul Zhang (UCLA)  |
-| 4:35PM   | Bit Blasting Probabilistic Programs. <br> Poorva Garg (UCLA) |
-| 4:50PM   | A Theory and Solver for Regular Expressions with Uninterpreted String Variables. <br> Tiching Kao (UCD)  |
-|          |                                     |
-| 5:05PM   |  Social gatherings                  |
+|----------|--------------------------------------------------------| | | Session 1 (Fault Localization and Repair) | | 9:45AM | Using LLMs for Static Fault Location.
+Rui Yang (UCR) | | 10:00AM | “How Does My Code Work?”: Local Explanations for Program Behaviors.
+Amirmohammad Nazari (USC) | | 10:15AM | Fault Localization Through Probabilistic Models of Program Execution.
+Sara Baradaran (USC) | | 10:30AM | Enhancing Resource Leak Detection and Safe Repair with Inference, Code Transformations, and LLM-Based Fix Generation.
+Sanjay Malakar (UCR) | | | | | 10:45AM | Coffee Break | | | | | | Session 2 (PL Usability) | | 11:10AM | Automated Verification 101: How Verifiers Impact Software Engineering.
+Eric Mugnier (UCSD) | | 11:25AM | How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities.
+Ruanqianqian (Lisa) Huang (UCSD) | | 11:40AM | Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora.
+Ilana Shapiro (UCSD) | | 11:55AM | Plottery: Sculpting Plots with Code, GUI, and AI.
+Brian Hempel (UCSD) | | | | | 12:10AM | Lunch | | | | | | Session 3 (Program Analysis) | | 1:30PM | Guiding LLM Code Generation with Fixed-Prefix Program Spaces.
+Timothy Zhou (UCSD) | | 1:45PM | The Hyperflow Graph: An Intermediate Representation for Hardware Security Verification.
+Andres Meza (UCSD) | | 2:00PM | Practical Security Analysis of Zero-Knowledge Proof Circuits.
+Hongbo Wen (UCSB) | | 2:15PM | An Incremental Algorithm for Algebraic Program Analysis.
+Chenyu Zhou (USC) | | | | | 2:30PM | Coffee Break | | | | | | Session 3 (Solvers) | | 2:55PM | Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification .
+Kyle Thompson (UCSD) | | 3:10PM | Certifying Zero-Knowledge Circuits with Refinement Types .
+Junrui Liu (UCSB) | | 3:25PM | Data-Driven Assumption Weakening for Implication Lemma Synthesis.
+Ana Brendel (UCLA) | | 3:40PM | Compiler-Assisted Optimization of Finite Field Arithmetic via Refinement Types.
+Yanju Chen (UCSB) | | | | | 3:55PM | Short Break | | | | | | Session 4 (Solvers) | | 4:20PM | Destructive E-Graph Rewrites.
+Paul Zhang (UCLA) | | 4:35PM | Bit Blasting Probabilistic Programs.
+Poorva Garg (UCLA) | | 4:50PM | A Theory and Solver for Regular Expressions with Uninterpreted String Variables.
+Tiching Kao (UCD) | | | | | 5:05PM | Social gatherings |
 
 
 ---
