@@ -81,7 +81,8 @@ Sanjay Malakar (UCR) |
 | | | 
 | 12:10AM | Lunch | 
 | | | 
-| Session 3 (Program Analysis) | | 1:30PM | Guiding LLM Code Generation with Fixed-Prefix Program Spaces. Timothy Zhou (UCSD) | 
+| Session 3 (Program Analysis) | 
+| 1:30PM | Guiding LLM Code Generation with Fixed-Prefix Program Spaces. Timothy Zhou (UCSD) | 
 | 1:45PM | The Hyperflow Graph: An Intermediate Representation for Hardware Security Verification. Andres Meza (UCSD) | 
 | 2:00PM | Practical Security Analysis of Zero-Knowledge Proof Circuits. Hongbo Wen (UCSB) | 
 | 2:15PM | An Incremental Algorithm for Algebraic Program Analysis. Chenyu Zhou (USC) | 
