@@ -56,7 +56,7 @@ acceptance.
 
 Registration is 50 dollars for academics and 150 dollars for non academics and will cover the costs associated with the event.
 
-[Registration Link](www.eventbrite.com/e/1146554438189)
+[Registration Link](https://www.eventbrite.com/e/1146554438189)
 
 ---
 
