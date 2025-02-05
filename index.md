@@ -9,7 +9,7 @@ title: Home
 The SoCal Programming Languages and Systems Workshop is an informal gathering of
 programming languages and systems researchers in Southern California.
 
-This spring, we'll meet at the [University of California, San Diego][ucsd] in room CSE (Computer Science and Engineering) 1202 on
+This spring, we'll meet at the [University of California, San Diego][ucsd] in room CSE (Computer Science and Engineering) 1242 on
 Friday, February 7th, 2025.
 
 ## [Registration Link](https://www.eventbrite.com/e/1146554438189) ##
@@ -64,7 +64,7 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 ## Schedule
 
 |----------|--------------------------------------------------------| 
-| | Session 1 (Fault Localization and Repair) | 
+| | Session 1 (Fault Localization and Repair) Chair: Loris D'Antoni (UCSD) | 
 | 9:45AM | Using LLMs for Static Fault Location. Rui Yang (UCR) | 
 | 10:00AM | “How Does My Code Work?”: Local Explanations for Program Behaviors. Amirmohammad Nazari (USC) | 
 | 10:15AM | Fault Localization Through Probabilistic Models of Program Execution. Sara Baradaran (USC) | 
@@ -72,7 +72,7 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 | | | 
 | 10:45AM | Coffee Break | 
 | | | 
-| | Session 2 (PL Usability) | 
+| | Session 2 (PL Usability) Chair: Nadia Polikarpova (UCSD) | 
 | 11:10AM | Automated Verification 101: How Verifiers Impact Software Engineering. Eric Mugnier (UCSD) | 
 | 11:25AM | How Scientists Use Jupyter Notebooks: Goals, Quality Attributes, and Opportunities. Ruanqianqian (Lisa) Huang (UCSD) | 
 | 11:40AM | Synthesizing Composite Hierarchical Structure from Symbolic Music Corpora. Ilana Shapiro (UCSD) | 
@@ -80,7 +80,7 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 | | | 
 | 12:10AM | Lunch | 
 | | | 
-| | Session 3 (Program Analysis) | 
+| | Session 3 (Program Analysis) Chair: Todd Millstein (UCSD) | 
 | 1:30PM | Guiding LLM Code Generation with Fixed-Prefix Program Spaces. Timothy Zhou (UCSD) | 
 | 1:45PM | The Hyperflow Graph: An Intermediate Representation for Hardware Security Verification. Andres Meza (UCSD) | 
 | 2:00PM | Practical Security Analysis of Zero-Knowledge Proof Circuits. Hongbo Wen (UCSB) | 
@@ -88,7 +88,7 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 | | | 
 | 2:30PM | Coffee Break | 
 | | |  
-| | Session 4 (Automation) | 
+| | Session 4 (Automation) Chair: Ranjit Jhala (UCSD) | 
 | 2:55PM | Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification. Kyle Thompson (UCSD) |
 | 3:10PM | Certifying Zero-Knowledge Circuits with Refinement Types. Junrui Liu (UCSB) | 
 | 3:25PM | Data-Driven Assumption Weakening for Implication Lemma Synthesis. Ana Brendel (UCLA) | 
@@ -96,7 +96,7 @@ Registration is 50 dollars for academics and 150 dollars for non academics and w
 | | | 
 | 3:55PM | Short Break | 
 | | |  
-| | Session 5 (Solvers) | 
+| | Session 5 (Solvers) Chair: Mukund Raghothaman (UCSD) | 
 | 4:20PM | Destructive E-Graph Rewrites. Paul Zhang (UCLA) | 
 | 4:35PM | Bit Blasting Probabilistic Programs. Poorva Garg (UCLA) | 
 | 4:50PM | A Theory and Solver for Regular Expressions with Uninterpreted String Variables. Tiching Kao (UCD) | 
