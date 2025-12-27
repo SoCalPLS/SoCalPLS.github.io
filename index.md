@@ -86,7 +86,6 @@ phone](https://transnet.usc.edu/index.php/daily-and-hourly-parking/).
 | [Brian Demsky](https://plrg.ics.uci.edu/) | UCI |
 | [Konstantinos Kallas](https://angelhof.github.io/) | UCLA |
 | [Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA |
-| [Manu Shridharan](https://manu.sridharan.net/) | UCR |
 
 ---
 
