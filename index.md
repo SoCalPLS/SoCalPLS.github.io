@@ -67,13 +67,13 @@ To be announced.
 If you are traveling to Los Angeles by train, the easiest way to get from Union Station to USC is to
 take the southbound A-line (blue) train to the 7th Street Metro Center, and then switch to the
 westbound E-line (yellow) train to Expo Park / USC station. From there, Ginsburg Hall is a short
-(10-minute walk across campus)[https://maps.app.goo.gl/snFEdL76iN73e2xF6]. Google predicts the
-entire commute to take about 40 minutes from (Union Station to Ginsburg
-Hall)[https://maps.app.goo.gl/UiHiubpTdTBoAPry7].
+[10-minute walk across campus](https://maps.app.goo.gl/snFEdL76iN73e2xF6). Google predicts the
+entire commute to take about 40 minutes from [Union Station to Ginsburg
+Hall](https://maps.app.goo.gl/UiHiubpTdTBoAPry7).
 
 If you are driving to campus, you can park at the Downey Way Parking Structure, right across the
-street from Ginsburg Hall. Daily parking costs $20.50, and you can (pay by
-phone)[https://transnet.usc.edu/index.php/daily-and-hourly-parking/].
+street from Ginsburg Hall. Daily parking costs $20.50, and you can [pay by
+phone](https://transnet.usc.edu/index.php/daily-and-hourly-parking/).
 
 ---
 
