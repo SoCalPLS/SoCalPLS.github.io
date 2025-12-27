@@ -83,6 +83,7 @@ phone](https://transnet.usc.edu/index.php/daily-and-hourly-parking/).
 | [Mukund Raghothaman](https://r-mukund.github.io/) | USC |
 | [Chao Wang](https://sites.usc.edu/chaowang/) | USC |
 | [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/) | UCSD |
+| [Brian Demsky](https://plrg.ics.uci.edu/) | UCI |
 | [Konstantinos Kallas](https://angelhof.github.io/) | UCLA |
 | [Todd Millstein](http://web.cs.ucla.edu/~todd/) | UCLA |
 | [Manu Shridharan](https://manu.sridharan.net/) | UCR |
