@@ -79,8 +79,9 @@ Details and registration link to be announced.
 | ---- |
 
 | ---- |
-| **12:30 pm--2 pm**: Lunch and posters. |
+| **12:30 pm--2 pm** |
 | ---- |
+| *Lunch and posters*. |
 | ---- |
 
 | ---- |
