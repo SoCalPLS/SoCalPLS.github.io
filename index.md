@@ -62,7 +62,7 @@ Details and registration link to be announced.
 | **9:30 am--10:45 am** |
 | ---- |
 | *The Command Line GUIde: Graphical Interfaces from Man Pages via AI*. Saketh Ram Kasibatla, Kiran Medleri Hiremath, Raven Rothkopf, Sorin Lerner, Haijun Xia, and Brian Hempel. |
-| *Using Large Language Models and Constraint Logic Programming for Interpretable Mental Health Diagnosis*. Brian Hyeongseok Kim and Chao Wang,. |
+| *Using Large Language Models and Constraint Logic Programming for Interpretable Mental Health Diagnosis*. Brian Hyeongseok Kim and Chao Wang. |
 | *Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers*. Xuanyu Peng. |
 | *Bandwidth–Timeout Analysis via Quantitative Effects*. Loi Ngo Duc Nguyen and Manu Sridharan. |
 | *Synthesizing Complex Program Analyzers from Natural Language Questions*. Amirmohammad Nazari, Sadra Sabouri, Wang Bill Zhu, Robin Jia, Souti Chattopadhyay, and Mukund Raghothaman. |
@@ -75,7 +75,7 @@ Details and registration link to be announced.
 | *Formalizing Grounded Arithmetic*. Elliot Bobrow, Bryan Ford, and Stefan Milenkovic. |
 | *In Search of Failed Search: Unrealizability for Program Synthesis*. Shaan Nagy. |
 | ---- |
-| **12:30 pm--2 pm**: Lunch and posters |
+| **12:30 pm--2 pm**: Lunch and posters. |
 | ---- |
 | **2 pm--3 pm** |
 | ---- |
@@ -92,6 +92,20 @@ Details and registration link to be announced.
 | *Tabby: A Synthesis-Aided Compiler for High-Performance Zero-Knowledge Proof Circuits*. Junrui Liu, Jiaxin Song, Yannning Chen, Hanzhi Liu, Hongbo Wen, Luke Pearson, Yanju Chen, and Yu Feng. |
 | *Adaptive Counter-Attack Synthesis for Mitigation of Onchain Exploits*. Hanzhi Liu, Yanju Chen, Jiaming Shan, Jiaxin Song, Chaofan Shou, Hongbo Wen, Yu Feng. |
 | ---- |
+
+### Posters
+
+- *cuJSON: A Highly Parallel JSON Parser for GPUs*. Ashkan Vedadi Gargary, Soroosh Safari Loaliyan, and Zhijia Zhao.
+- *Formalizing and Automating the Discovery of Weird States and Weird Machine Primitives Using Program Semantics*. Ramesh Balaji, Matthew Revelle, and Meera Sridhar.
+- *SpecProto: A Parallelizing Compiler for Speculative Decoding of Large Protocol Buffers Data*. Zhijie Wang.
+- *Mechanically Translating Iterative Dataflow Analysis to Algebraic Program Analysis*. Chenyu Zhou, Jingbo Wang, and Chao Wang.
+- *ATLAS: A Ledger-Agnostic Observational Semantics for Mechanized Verification of Cross-Chain Protocols*. Tooba Khan, Srivatsan Ravi, and Chao Wang.
+- *Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models*. Sairam Vaidya, Marcel Böhme, Loris D’Antoni.
+- *The Microservice-ization of gem5*. Connor Wang and Sam Thomas.
+- *Scr Mmy: A Co-Designed Secure and Compressed Memory*. Henry Cannon and Sam Thomas.
+- *Heterogeneous Architectures for Machine Learning–Based Intrusion Detection in Autonomous Vehicles*. Henrique C. Freitas, Marcos Amaris, and Jean-Luc Gaudiot.
+- *Scheduling Techniques with MORL to Reduce Carbon Emissions on HPC and Cloud Platforms*. Marcos Amaris,  Henrique C. Freitas, and Jean-Luc Gaudiot.
+- *Breaking Blockchain Consensus via Boundary-Seeking Fuzzing of  Inter-Client State Serialization*. Hanzhi Liu, Yanju Chen, Hongbo Wen, and Yu Feng.
 
 ---
 
