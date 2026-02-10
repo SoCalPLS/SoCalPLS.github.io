@@ -87,7 +87,7 @@ Details and registration link to be announced.
 | ---- |
 | **2 pm--3 pm** |
 | ---- |
-| *Testing Deep Learning Compilers with Cross-Layer Constraints*. Yuxin Qiu. |
+| *Testing Deep Learning Compilers with Cross-Layer Constraints*. Yuxin Qiu, Jiyuan Wang, Ronak Badhe, Ben Limpanukorn, Miryung Kim, and Qian Zhang. |
 | *From Syntactic to Semantic Spectra for Fault Localization*. Zhaorui Yang, Qian Zhang, Rajiv Gupta, and Ashish Kundu. |
 | *Rule-based Repair for Bespoke Fuzzing with LLMs*. Ben Limpanukorn, Jiyuan Wang, Seongmin Lee, Ronak Badhe, Yuxin Qiu, Qian Zhang, and Miryung Kim. |
 | *On the Limits of Proof Sharing for Neural Networks*. Kanak Das, Shubham Ugare, Bor-Yuh Evan Chang, Sasa Misailovic, Gagandeep Singh, and Manu Sridharan. |
