@@ -67,6 +67,8 @@ Details and registration link to be announced.
 | *Bandwidth–Timeout Analysis via Quantitative Effects*. Loi Ngo Duc Nguyen and Manu Sridharan. |
 | *Synthesizing Complex Program Analyzers from Natural Language Questions*. Amirmohammad Nazari, Sadra Sabouri, Wang Bill Zhu, Robin Jia, Souti Chattopadhyay, and Mukund Raghothaman. |
 | ---- |
+
+| ---- |
 | **11:15 am--12:30 pm** |
 | ---- |
 | *Wick: Fixing a hole in refinement type inference*. Cole Kurashige, Nico Lehmann, and Ranjit Jhala. |
@@ -75,7 +77,11 @@ Details and registration link to be announced.
 | *Formalizing Grounded Arithmetic*. Elliot Bobrow, Bryan Ford, and Stefan Milenkovic. |
 | *In Search of Failed Search: Unrealizability for Program Synthesis*. Shaan Nagy. |
 | ---- |
+
+| ---- |
 | **12:30 pm--2 pm**: Lunch and posters. |
+| ---- |
+
 | ---- |
 | **2 pm--3 pm** |
 | ---- |
@@ -83,6 +89,8 @@ Details and registration link to be announced.
 | *From Syntactic to Semantic Spectra for Fault Localization*. Zhaorui Yang, Qian Zhang, Rajiv Gupta, and Ashish Kundu. |
 | *Rule-based Repair for Bespoke Fuzzing with LLMs*. Ben Limpanukorn, Jiyuan Wang, Seongmin Lee, Ronak Badhe, Yuxin Qiu, Qian Zhang, and Miryung Kim. |
 | *On the Limits of Proof Sharing for Neural Networks*. Kanak Das, Shubham Ugare, Bor-Yuh Evan Chang, Sasa Misailovic, Gagandeep Singh, and Manu Sridharan. |
+| ---- |
+
 | ---- |
 | **3:30 pm--4:45 pm** |
 | ---- |
