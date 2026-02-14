@@ -12,8 +12,11 @@ languages and systems researchers in Southern California.
 This spring, we'll meet at the [University of Southern California](usc.edu) in the auditorium of
 Ginsburg Hall on Friday, February 27th, 2026.
 
-**Submit abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLScJJE_L_XIoe1mBu9zTa3d82MHG_p0s-3h_PrKMNR7P9Zw4mw/viewform?usp=dialog)
-by Friday, January 30th, 2026.**
+**Register for the workshop [here](https://events.usc.edu/esvp/socalpls2026) by the 20th of
+February, 2026.**
+
+~~**Submit abstracts [here](https://docs.google.com/forms/d/e/1FAIpQLScJJE_L_XIoe1mBu9zTa3d82MHG_p0s-3h_PrKMNR7P9Zw4mw/viewform?usp=dialog)
+by Friday, January 30th, 2026.**~~
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Los_Angeles_with_Mount_Baldy.jpg">
 
@@ -51,7 +54,7 @@ information when they notify you of acceptance.
 
 ## Registration
 
-Details and registration link to be announced.
+- Registration link: https://events.usc.edu/esvp/socalpls2026
 
 ---
 
