@@ -119,6 +119,7 @@ information when they notify you of acceptance.
 - *Heterogeneous Architectures for Machine Learning–Based Intrusion Detection in Autonomous Vehicles*. Henrique C. Freitas, Marcos Amaris, and Jean-Luc Gaudiot.
 - *Scheduling Techniques with MORL to Reduce Carbon Emissions on HPC and Cloud Platforms*. Marcos Amaris,  Henrique C. Freitas, and Jean-Luc Gaudiot.
 - *Breaking Blockchain Consensus via Boundary-Seeking Fuzzing of  Inter-Client State Serialization*. Hanzhi Liu, Yanju Chen, Hongbo Wen, and Yu Feng.
+- *PLanet: Formalizing Assignment Procedures in the Design of Experiments*. London Bielicke, Anna Zhang, Shruti Tyagi, Emery D. Berger, Adam Chlipala, and Eunice Jun.
 
 ---
 
