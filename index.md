@@ -62,9 +62,9 @@ information when they notify you of acceptance.
 ## Schedule
 
 | ---- |
-| **9:30 am--10:45 am** |
+| **9:30 am--10:45 am** (Session chair: Todd Millstein) |
 | ---- |
-| *The Command Line GUIde: Graphical Interfaces from Man Pages via AI*. Saketh Ram Kasibatla, Kiran Medleri Hiremath, Raven Rothkopf, Sorin Lerner, Haijun Xia, and Brian Hempel. |
+| *Wick: Fixing a hole in refinement type inference*. Cole Kurashige, Nico Lehmann, and Ranjit Jhala. |
 | *Using Large Language Models and Constraint Logic Programming for Interpretable Mental Health Diagnosis*. Brian Hyeongseok Kim and Chao Wang. |
 | *Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers*. Xuanyu Peng. |
 | *Bandwidth–Timeout Analysis via Quantitative Effects*. Loi Ngo Duc Nguyen and Manu Sridharan. |
@@ -72,9 +72,9 @@ information when they notify you of acceptance.
 | ---- |
 
 | ---- |
-| **11:15 am--12:30 pm** |
+| **11:15 am--12:30 pm** (Session chair: Manu Sridharan) |
 | ---- |
-| *Wick: Fixing a hole in refinement type inference*. Cole Kurashige, Nico Lehmann, and Ranjit Jhala. |
+| *The Command Line GUIde: Graphical Interfaces from Man Pages via AI*. Saketh Ram Kasibatla, Kiran Medleri Hiremath, Raven Rothkopf, Sorin Lerner, Haijun Xia, and Brian Hempel. |
 | *Membership Testing for Semantic Regular Expressions*. Yifei Huang, Matin Amini, Alexis Le Glaunec, Konstantinos Mamouras, and Mukund Raghothaman. |
 | *Pync: Function Level Incremental Execution for Python Scripts*. Bolun Thompson, Kalon Kelley, Christian Gram Kalhauge, and Konstantinos Kallas. |
 | *Formalizing Grounded Arithmetic*. Elliot Bobrow, Bryan Ford, and Stefan Milenkovic. |
@@ -88,21 +88,21 @@ information when they notify you of acceptance.
 | ---- |
 
 | ---- |
-| **2 pm--3 pm** |
+| **2 pm--3 pm** (Session chair: Konstantinos Kallas) |
 | ---- |
 | *Testing Deep Learning Compilers with Cross-Layer Constraints*. Yuxin Qiu, Jiyuan Wang, Ronak Badhe, Ben Limpanukorn, Miryung Kim, and Qian Zhang. |
 | *From Syntactic to Semantic Spectra for Fault Localization*. Zhaorui Yang, Qian Zhang, Rajiv Gupta, and Ashish Kundu. |
-| *Rule-based Repair for Bespoke Fuzzing with LLMs*. Ben Limpanukorn, Jiyuan Wang, Seongmin Lee, Ronak Badhe, Yuxin Qiu, Qian Zhang, and Miryung Kim. |
+| *Tabby: A Synthesis-Aided Compiler for High-Performance Zero-Knowledge Proof Circuits*. Junrui Liu, Jiaxin Song, Yannning Chen, Hanzhi Liu, Hongbo Wen, Luke Pearson, Yanju Chen, and Yu Feng. |
 | *On the Limits of Proof Sharing for Neural Networks*. Kanak Das, Shubham Ugare, Bor-Yuh Evan Chang, Sasa Misailovic, Gagandeep Singh, and Manu Sridharan. |
 | ---- |
 
 | ---- |
-| **3:30 pm--4:45 pm** |
+| **3:30 pm--4:45 pm** (Session chair: Mukund Raghothaman) |
 | ---- |
 | *Dependency-aware Residual Risk Analysis*. Seongmin Lee and Marcel Böhme. |
 | *WhyFlow: Interrogative Debugger for Sensemaking Taint Analysis*. Burak Yetiştiren, Hong Jin Kang, and Miryung Kim. |
 | *CXip List: A CXL-Aware Skip List*. Steven Kim and Samuel Thomas. |
-| *Tabby: A Synthesis-Aided Compiler for High-Performance Zero-Knowledge Proof Circuits*. Junrui Liu, Jiaxin Song, Yannning Chen, Hanzhi Liu, Hongbo Wen, Luke Pearson, Yanju Chen, and Yu Feng. |
+| *Rule-based Repair for Bespoke Fuzzing with LLMs*. Ben Limpanukorn, Jiyuan Wang, Seongmin Lee, Ronak Badhe, Yuxin Qiu, Qian Zhang, and Miryung Kim. |
 | *Adaptive Counter-Attack Synthesis for Mitigation of Onchain Exploits*. Hanzhi Liu, Yanju Chen, Jiaming Shan, Jiaxin Song, Chaofan Shou, Hongbo Wen, Yu Feng. |
 | ---- |
 
