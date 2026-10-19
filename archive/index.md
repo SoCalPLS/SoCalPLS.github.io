@@ -6,6 +6,9 @@ title: Archive
 
 |             Year           |  Season  |               Location             |
 |:--------------------------:|:--------:|:----------------------------------:|
+| [2026](2026feb)            |  Winter    | [USC][usc]                         |
+| [2025](2025feb)            |  Winter    | [UCSD][ucsd]                         |
+| [2017](2017sep)            |  Fall    | [UCR][ucr]                         |
 | [2016](2016nov)            |  Fall    | [UCI][uci]                         |
 | [2016](2016apr)            |  Spring  | [USC][usc]                         |
 | [2015](2015dec)            |   Fall   | [Pomona College][pomona]           |
