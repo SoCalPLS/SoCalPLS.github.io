@@ -9,7 +9,12 @@ Other:
 
   - Dates
       Fall: after PLDI / Oakland deadlines
-      Spring: ??
+      Spring: Abstract submission after POPL conference, and after CAV submission paper ideally
+  - Timeline:
+    - Submission 5 weeks before event
+    - Notification 4 weeks before event (to have time to prepare talks/posters)
+    - Registration 1-2 weeks before event
+
 
 Day of:
 

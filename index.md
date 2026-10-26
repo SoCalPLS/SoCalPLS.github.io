@@ -50,10 +50,10 @@ information when they notify you of acceptance.
 ## Important Dates
 
 |-----------------------|-------------------------------------------|
-| Friday, January 15th  | Abstract submission deadline (end of day) |
-| Friday, January 22nd  | Notification of acceptance                |
-| Friday, January 29th  | Registration deadline                     |
-| Friday, February 5th  | SoCal PLS Workshop                        |
+| Friday, January  22nd | Abstract submission deadline (end of day) |
+| Friday, January  29th | Notification of acceptance                |
+| Friday, February 19th | Registration deadline                     |
+| Friday, February 26th | SoCal PLS Workshop                        |
 
 <!-- --- -->
 
